@@ -1,4 +1,5 @@
-# playground
+# personal website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3cd5695-dcc3-47ec-adbe-8eba38399bc9/deploy-status)](https://app.netlify.com/sites/onesimus/deploys)
 
 ## Project setup
 ```
