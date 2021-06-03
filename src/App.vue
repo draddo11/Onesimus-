@@ -1,4 +1,5 @@
 <template>
+<v-app>
 <span>
      
      <h1  position = center
@@ -9,19 +10,22 @@
      <aside id='icons'>
         
       <a href="mailto:draddo11@gmail.com" >
-      <v-icon x-large>mdi-email</v-icon>
+      <v-icon x-large  color="green darken-2">mdi-email</v-icon>
       </a>
        <a href="https://www.linkedin.com/in/onesimus-addo-appiah-1b7b78129/" target='_blank'>
-      <v-icon x-large >mdi-linkedin</v-icon>
+      <v-icon x-large   color="blue darken-2">mdi-linkedin</v-icon>
        </a>
       <a href='https://github.com/draddo11' target='_blank' >
-      <v-icon x-large>mdi-github</v-icon>
+
+      <v-icon x-large color="black darken-2">mdi-github</v-icon>
       </a>
       <a href ='https://twitter.com/draddo11?lang=en' target='_blank' >
-      <v-icon x-large>mdi-twitter</v-icon>
+
+      <v-icon x-large  color="blue darken-2">mdi-twitter</v-icon>
       </a>
      </aside> 
    </span>  
+</v-app>
 </template>
 
 <script>
